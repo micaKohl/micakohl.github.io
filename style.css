@@ -1,16 +1,21 @@
 /* Path: style.css */
-ul {
-  font-size: 20px;
-  color: red;
-}
 
 /* can you make the header text blue? */
 h1 {
   color: blue;
   font-weight: 800;
+  font-size: 100px;
+  text-align: center;
 }
 /* can you make the subheader text red? */
 h2 {
   color: red;
   font-weight: 200;
+  font-size: 50px;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 100px;
 }
