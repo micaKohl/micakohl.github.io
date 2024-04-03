@@ -7,8 +7,10 @@ ul {
 /* can you make the header text blue? */
 h1 {
   color: blue;
+  font-weight: 800;
 }
 /* can you make the subheader text red? */
 h2 {
   color: red;
+  font-weight: 200;
 }
